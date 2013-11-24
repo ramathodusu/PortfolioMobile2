@@ -3,7 +3,7 @@
   $page_title = 'Can Sign Up';
   require_once('header.php');
 
-  require_once('picsize.php');
+  //require_once('picsize.php');
   require_once('dbconnect.php');
 
   // Connect to the database
